@@ -1,0 +1,22 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(84, 84, 84);
+  display: flex;
+  justify-content: center;
+
+}
+
+.card{
+  background-color: rgb(90, 114, 147);
+  padding: 15px;
+  border:solid 5px black;
+  border-radius: 20px;
+  width: 100vh;
+  height: 50vh;
+}
+
+button{
+  padding: 10px;
+  background-color: antiquewhite;
+  margin: 20px;
+}
