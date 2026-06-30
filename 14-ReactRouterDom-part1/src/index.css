@@ -1,0 +1,26 @@
+body{
+  background-color: black;
+  color: white;
+}
+
+h1{
+  background-color: rgb(79, 4, 72);
+  padding: 15px;
+  text-align: center;
+  border: solid 2px wheat;
+  border-radius: 100px;
+  height: 150px;
+  align-content: center; 
+}
+
+#navbar{
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(4, 111, 111);
+  padding: 5px 15px;
+}
+
+#links{
+  display: flex;
+  gap: 25px;
+}
